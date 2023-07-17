@@ -13,8 +13,9 @@ This is a Dog Adoption App built with React. It allows users to search for dogs 
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/saiyyamkochar-29/fetch-fe.git`
-2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
+2. CHange directory to the "fetch-fe" folder: 'cd fetch-fe'
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
 
 ## Usage
 
